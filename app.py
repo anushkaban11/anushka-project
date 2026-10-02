@@ -45,4 +45,4 @@ if st.button("Predict Final Result"):
     })
     st.bar_chart(data.set_index('Factor'))
 
-Dabate hi 1 min me tera https://student-project-2026.streamlit.app/ PRO ban jayega.
+
