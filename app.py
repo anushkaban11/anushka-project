@@ -4,7 +4,6 @@ import pandas as pd
 st.set_page_config(page_title="Student Predictor PRO", page_icon="🎓")
 
 st.title("🎓 Student Prediction PRO")
-st.write("Final Year AI Project - Anushka Ban")
 
 study = st.slider("Daily Study Hours", 0, 12, 5)
 attendance = st.slider("Attendance %", 0, 100, 75)
