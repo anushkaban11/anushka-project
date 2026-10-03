@@ -1,4 +1,4 @@
-https://github.com/anushkaban11/anushka-project
+https://student-project-2026.streamlit.app/
 🎓 Student Performance Predictor | AI Based
 
 **Created by Anushka Ban - B.Tech 1st Year**
