@@ -1,4 +1,5 @@
-# 🎓 Student Performance Predictor | AI Based
+https://github.com/anushkaban11/anushka-project
+🎓 Student Performance Predictor | AI Based
 
 **Created by Anushka Ban - B.Tech 1st Year**
 
